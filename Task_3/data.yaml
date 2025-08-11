@@ -1,0 +1,6 @@
+
+train: /kaggle/working/dataset_6classes/train/images
+val: /kaggle/working/dataset_6classes/val/images
+
+nc: 6
+names: ['bus', 'car', 'motorbike', 'rickshaw', 'three wheelers (CNG)', 'truck']
